@@ -16,8 +16,6 @@ La **Búsqueda Lineal** es el algoritmo de búsqueda más simple. Consiste en re
 * Cuando solo necesitas buscar una vez
 * Datos no indexados
 
----
-
 ## 🛠️ El Algoritmo
 
 La lógica es directa:
@@ -28,11 +26,9 @@ La lógica es directa:
 4. **Si no coincide**: Pasa al siguiente elemento
 5. **Si terminas** el array y no lo encontraste: Devuelve `-1`
 
----
-
 ## 💻 Código en Java
 
-La implementación estándar y limpia:
+La implementación estándar y limpia que hay que saberse:
 
 ```java
 class LinearSearch {
